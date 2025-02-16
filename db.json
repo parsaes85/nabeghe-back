@@ -1,0 +1,672 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "پایه های HTML/CSS",
+      "name": "html/css",
+      "shortDesc": "یادگیری مبانی HTML و CSS",
+      "desc": "در این دوره، مبانی HTML و CSS از جمله ساختار، استایل و لایه بندی را خواهید آموخت.",
+      "images": [
+        "https://static.roocket.ir/images/cover/2023/12/1/oDeQGSRo3mEnYF3BAkI1koRxuKIqUFTKo0HIH2e1.jpg",
+        "html-css-image2.jpg"
+      ],
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "price": 1119000,
+      "discount": 0,
+      "seasons": 5,
+      "time": 25,
+      "isComplete": 1,
+      "category": {
+        "id": "9",
+        "title": "فرانت اند",
+        "name": "frontend"
+      }
+    },
+    {
+      "id": "2",
+      "title": "مبانی جاوا اسکریپت",
+      "name": "javascript",
+      "shortDesc": "یادگیری مبانی جاوا اسکریپت",
+      "desc": "در این دوره، مبانی جاوا اسکریپت از جمله متغیرها، انواع داده، توابع و برنامه نویسی شی گرا را خواهید آموخت.",
+      "images": [
+        "https://static.roocket.ir/images/cover/2023/12/1/lVDiVlTtTKPvPZzgxMSBmIEBIQpgVMPX2SGuAN7C.jpg",
+        "javascript-image2.jpg"
+      ],
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "price": 1229000,
+      "discount": 15,
+      "seasons": 8,
+      "time": 49,
+      "isComplete": 1,
+      "category": {
+        "id": "9",
+        "title": "فرانت اند",
+        "name": "frontend"
+      }
+    },
+    {
+      "id": "3",
+      "title": "پایه های ری اکت",
+      "name": "react",
+      "shortDesc": "یادگیری مبانی ری اکت",
+      "desc": "در این دوره، مبانی ری اکت از جمله کامپوننت ها، استیت، پروپ ها و هندلینگ رویدادها را خواهید آموخت.",
+      "images": [
+        "https://static.roocket.ir/images/cover/2024/3/1/aE9nP6wnSnB9ib0M1Q6HelLDM2UZtBf1Bo5LAUhu.jpg",
+        "react-image2.jpg"
+      ],
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "price": 2119000,
+      "discount": 20,
+      "seasons": 6,
+      "time": 32,
+      "isComplete": 0,
+      "category": {
+        "id": "9",
+        "title": "فرانت اند",
+        "name": "frontend"
+      }
+    },
+    {
+      "id": "4",
+      "title": "اصول طراحی UI/UX",
+      "name": "ui/ux",
+      "shortDesc": "یادگیری اصول طراحی UI/UX",
+      "desc": "در این دوره، اصول طراحی UI/UX از جمله تحقیقات کاربر، وایر فرمینگ و پروتوتایپینگ را خواهید آموخت.",
+      "images": [
+        "https://static.roocket.ir/images/cover/2023/12/1/bfXiSAuUHdHj6jI8sUsQx0j7MdTGRd3zF4O3Lyzc.jpg",
+        "ui-ux-image2.jpg"
+      ],
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "price": 0,
+      "discount": 0,
+      "seasons": 3,
+      "time": 18,
+      "isComplete": 1,
+      "category": {
+        "id": "6",
+        "title": "طراحی UI/UX",
+        "name": "ui-ux"
+      }
+    },
+    {
+      "id": "5",
+      "title": "طراحی وب واکنش گرا",
+      "name": "rwd",
+      "shortDesc": "یادگیری طراحی وب واکنش گرا",
+      "desc": "در این دوره، طراحی وب واکنش گرا با استفاده از HTML، CSS و جاوا اسکریپت را خواهید آموخت.",
+      "images": [
+        "https://static.roocket.ir/images/cover/2024/3/14/qmLca1lqtoFe1kwJmBGe5lJ9ET17agVL2D8nQGwb.jpg",
+        "rwd-image2.jpg"
+      ],
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "price": 890000,
+      "discount": 15,
+      "seasons": 2,
+      "time": 11,
+      "isComplete": 0,
+      "category": {
+        "id": "7",
+        "title": "طراحی وب واکنش گرا",
+        "name": "responsive-web-design"
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "۱۸ منبع یادگیری برای توسعه‌دهندگان Front-End",
+      "name": "18-learning-resources-for-front-end-developers",
+      "desc": "در این مقاله مبانی HTML و CSS را یاد می گیرید",
+      "body": "HTML و CSS دو فناوری اصلی برای ساخت وب هستند. در این مقاله مبانی HTML و CSS را یاد می گیرید",
+      "cover": "https://static.roocket.ir/images/cover/2024/2/25/6XK6H0pF6tXAEktXFR29vmrNMzPYmLWreYqmnz9K.jpg",
+      "isPublish": 1,
+      "time": 20,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "category": {
+        "id": "9",
+        "title": "فرانت اند",
+        "name": "frontend"
+      }
+    },
+    {
+      "id": "2",
+      "title": "تفاوت JavaScript و ECMAScript چیست؟ | رازی که به دنبالش بودی!!",
+      "name": "javascript-vs-ecmascript",
+      "desc": "در این مقاله جاوا اسکریپت را معرفی می کنیم",
+      "body": "جاوا اسکریپت یک زبان برنامه نویسی است که برای ساخت وب استفاده می شود. در این مقاله جاوا اسکریپت را معرفی می کنیم",
+      "cover": "https://static.roocket.ir/images/cover/2024/10/21/3cw9ovhSTgnpMZmBjPEJkszrcD87cMQUeUH8OJWP.jpg",
+      "isPublish": 1,
+      "time": 15,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "category": {
+        "id": "2",
+        "title": "جاوا اسکریپت",
+        "name": "javascript"
+      }
+    },
+    {
+      "id": "3",
+      "title": "5 راهکار برای افزایش سرعت سایت",
+      "name": "5-ways-to-improve-site-speed",
+      "desc": "در این مقاله ری اکت را معرفی می کنیم",
+      "body": "ری اکت یک فریم ورک جاوا اسکریپت است که برای ساخت وب استفاده می شود. در این مقاله ری اکت را معرفی می کنیم",
+      "cover": "https://static.roocket.ir/images/cover/2024/2/18/UTk7W0ykH3i1XYPN7WWYz6dc8KgESpv3FuCzmba8.jpg",
+      "isPublish": 1,
+      "time": 30,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "category": {
+        "id": "9",
+        "title": "فرانت اند",
+        "name": "frontend"
+      }
+    },
+    {
+      "id": "4",
+      "title": "سئو ( SEO ) چیست؟ | بهینه سازی سایت - به زبان ساده",
+      "name": "what-is-seo",
+      "desc": "در این مقاله طراحی UI/UX را معرفی می کنیم",
+      "body": "طراحی UI/UX یک فرآیند است که برای ساخت وب استفاده می شود. در این مقاله طراحی UI/UX را معرفی می کنیم",
+      "cover": "https://static.roocket.ir/images/cover/2024/10/21/M2t2MQ5gEpR2gAOdw5bfCAUnUc1r0zN23NWZ9UVx.jpg",
+      "isPublish": 1,
+      "time": 30,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "category": {
+        "id": "10",
+        "title": "بک‌ اند",
+        "name": "backend"
+      }
+    },
+    {
+      "id": "5",
+      "title": "طراحی وب واکنش گرا چیست؟",
+      "name": "responsive-web-design",
+      "desc": "در این مقاله طراحی وب واکنش گرا را معرفی می کنیم",
+      "body": "طراحی وب واکنش گرا یک فرآیند است که برای ساخت وب استفاده می شود. در این مقاله طراحی وب واکنش گرا را معرفی می کنیم",
+      "cover": "responsive-web-design-cover.jpg",
+      "isPublish": 0,
+      "time": 10,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "category": {
+        "id": "7",
+        "title": "طراحی وب واکنش گرا",
+        "name": "responsive-web-design"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "پایه های HTML/CSS",
+      "name": "html-css"
+    },
+    {
+      "id": "2",
+      "title": "جاوا اسکریپت",
+      "name": "javascript"
+    },
+    {
+      "id": "3",
+      "title": "ری اکت",
+      "name": "react"
+    },
+    {
+      "id": "4",
+      "title": "آنگولار",
+      "name": "angular"
+    },
+    {
+      "id": "5",
+      "title": "ویو جی اس",
+      "name": "vuejs"
+    },
+    {
+      "id": "6",
+      "title": "طراحی UI/UX",
+      "name": "ui-ux"
+    },
+    {
+      "id": "7",
+      "title": "طراحی وب واکنش گرا",
+      "name": "responsive-web-design"
+    },
+    {
+      "id": "8",
+      "title": "فریم ورک های فرانت اند",
+      "name": "frontend-frameworks"
+    },
+    {
+      "id": "9",
+      "title": "فرانت اند",
+      "name": "frontend"
+    },
+    {
+      "id": "10",
+      "title": "بک اند",
+      "name": "backend"
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "title": "دسته بندی آموزشها",
+      "name": "learn",
+      "submenu": [
+        {
+          "id": 1.1,
+          "title": "دیتا ساینس",
+          "name": "data-science",
+          "categories": [
+            {
+              "id": 1,
+              "title": "پایه های HTML/CSS",
+              "name": "html-css"
+            }
+          ]
+        },
+        {
+          "id": 1.2,
+          "title": "توسعه بازی",
+          "name": "gaming",
+          "categories": [
+            {
+              "id": 2,
+              "title": "جاوا",
+              "name": "java"
+            }
+          ]
+        },
+        {
+          "id": 2.1,
+          "title": "دوره های طراحی UI/UX",
+          "name": "ui-ux-design-courses",
+          "categories": [
+            {
+              "id": 6,
+              "title": "طراحی UI/UX",
+              "name": "ui-ux"
+            }
+          ]
+        },
+        {
+          "id": 1.3,
+          "title": "برنامه نویسی وب",
+          "name": "frontend",
+          "categories": [
+            {
+              "id": 3,
+              "title": "ری اکت",
+              "name": "react"
+            },
+            {
+              "id": 4,
+              "title": "آنگولار",
+              "name": "angular"
+            },
+            {
+              "id": 5,
+              "title": "ویو جی اس",
+              "name": "vuejs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "مقالات آموزشی",
+      "name": "articles",
+      "submenu": []
+    },
+    {
+      "id": "4",
+      "title": "پرسش و پاسخ",
+      "name": "faq",
+      "submenu": []
+    },
+    {
+      "id": "5",
+      "title": "تماس با ما",
+      "name": "contact-us",
+      "submenu": []
+    }
+  ],
+  "coursesComments": [
+    {
+      "id": "1",
+      "userId": 1,
+      "courseId": 1,
+      "comment": "این دوره بسیار خوب بود، از آن خیلی کلیاتها یاد گرفتم.",
+      "rating": 5,
+      "createdAt": "2022-01-01T12:00:00.000Z",
+      "answers": [
+        {
+          "id": 1,
+          "username": "JohnDoe",
+          "commentId": 1,
+          "answer": "من هم این دوره را دوست داشتم و از آن خیلی خوشم آمدم.",
+          "createdAt": "2022-01-02T12:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "username": "JaneSmith",
+          "commentId": 1,
+          "answer": "من هم این دوره را دوست داشتم، اما هنوز در حال خواندنش هستم.",
+          "createdAt": "2022-01-03T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "courseId": 1,
+      "comment": "من از این دوره راضی بودم، خیلی آسان بود.",
+      "rating": 2,
+      "createdAt": "2022-01-05T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "courseId": 2,
+      "comment": "این دوره خوب بود، اما می توانست بهتر باشد.",
+      "rating": 3,
+      "createdAt": "2022-01-10T12:00:00.000Z",
+      "answers": [
+        {
+          "id": 3,
+          "username": "AliceJohnson",
+          "commentId": 3,
+          "answer": "من هم این نظر را دارم، اما هنوز در حال خواندنش هستم.",
+          "createdAt": "2022-01-11T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userId": 1,
+      "courseId": 3,
+      "comment": "من این دوره را دوست داشتم، بسیار آموزنده بود.",
+      "rating": 5,
+      "createdAt": "2022-01-15T12:00:00.000Z",
+      "answers": [
+        {
+          "id": 4,
+          "username": "BobBrown",
+          "commentId": 4,
+          "answer": "من هم این دوره را دوست داشتم و از آن خیلی خوشم آمدم.",
+          "createdAt": "2022-01-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 4,
+      "courseId": 1,
+      "comment": "این دوره خیلی طولانی بود، من خسته شدم.",
+      "rating": 2,
+      "createdAt": "2022-01-20T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "6",
+      "userId": 5,
+      "courseId": 2,
+      "comment": "من این دوره را دوست داشتم، اما هنوز در حال خواندنش هستم.",
+      "rating": 4,
+      "createdAt": "2022-01-25T12:00:00.000Z",
+      "answers": []
+    }
+  ],
+  "articlesComments": [
+    {
+      "id": "1",
+      "articleId": 1,
+      "userId": 2,
+      "comment": "این مقاله بسیار خوب بود.",
+      "rating": 5,
+      "createdAt": "2022-01-02T12:00:00.000Z",
+      "answers": [
+        {
+          "id": 1,
+          "username": "JohnDoe",
+          "commentId": 1,
+          "answer": "ممنون از شما.",
+          "createdAt": "2022-01-03T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "articleId": 1,
+      "userId": 3,
+      "comment": "این مقاله بسیار طولانی بود.",
+      "rating": 2,
+      "createdAt": "2022-01-04T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "3",
+      "articleId": 2,
+      "userId": 1,
+      "comment": "این مقاله بسیار خوب بود.",
+      "rating": 5,
+      "createdAt": "2022-01-06T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "4",
+      "articleId": 3,
+      "userId": 2,
+      "comment": "این مقاله بسیار طولانی بود.",
+      "rating": 2,
+      "createdAt": "2022-01-11T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "5",
+      "articleId": 4,
+      "userId": 3,
+      "comment": "این مقاله بسیار خوب بود.",
+      "rating": 5,
+      "createdAt": "2022-01-16T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "6",
+      "articleId": 5,
+      "userId": 1,
+      "comment": "این مقاله بسیار طولانی بود.",
+      "rating": 2,
+      "createdAt": "2022-01-21T12:00:00.000Z",
+      "answers": []
+    },
+    {
+      "id": "7",
+      "articleId": 1,
+      "userId": 4,
+      "comment": "این مقاله را دوست داشتم.",
+      "rating": 4,
+      "createdAt": "2022-01-22T12:00:00.000Z",
+      "answers": [
+        {
+          "id": 2,
+          "username": "JaneSmith",
+          "commentId": 7,
+          "answer": "من هم این مقاله را دوست داشتم.",
+          "createdAt": "2022-01-23T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "articleId": 2,
+      "userId": 5,
+      "comment": "این مقاله را دوست داشتم.",
+      "rating": 4,
+      "createdAt": "2022-01-24T12:00:00.000Z",
+      "answers": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "role": "student",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaGFuIERvZSJ9"
+    },
+    {
+      "id": "d9bb",
+      "fullname": "parsa esmaeili",
+      "username": "parsa_es",
+      "email": "parsaes771385@gmail.com",
+      "password": "parsa123456",
+      "role": "student",
+      "token": "15deff19-1013-404d-8134-1e9b5c9cf723"
+    },
+    {
+      "id": "2622",
+      "fullname": "ali rezaei",
+      "username": "ali_rez",
+      "email": "alirezaeii@gmail.com",
+      "password": "ali123456",
+      "role": "student",
+      "token": "affbf841-8b2c-4a59-a7ca-279b1990a607"
+    },
+    {
+      "id": "2264",
+      "fullname": "رامین رضایی",
+      "username": "ramin_rezz",
+      "email": "ramin@gmail.com",
+      "password": "ramin123456",
+      "role": "student",
+      "token": "38a7591a-f033-4e96-927d-e0a37d8bb8ae"
+    }
+  ],
+  "usersCartCourses": [
+    {
+      "id": "1",
+      "userId": 1,
+      "count": 1,
+      "price": 300000,
+      "courseId": 1
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "count": 2,
+      "price": 400000,
+      "courseId": 3
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "count": 1,
+      "price": 200000,
+      "courseId": 2
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "count": 1,
+      "price": 300000,
+      "courseId": 1
+    },
+    {
+      "id": "5",
+      "userId": 3,
+      "count": 1,
+      "price": 500000,
+      "courseId": 4
+    },
+    {
+      "id": "6",
+      "userId": 4,
+      "count": 1,
+      "price": 400000,
+      "courseId": 3
+    },
+    {
+      "id": "7",
+      "userId": 5,
+      "count": 1,
+      "price": 200000,
+      "courseId": 2
+    },
+    {
+      "id": "8",
+      "userId": 6,
+      "count": 1,
+      "price": 300000,
+      "courseId": 1
+    },
+    {
+      "id": "9",
+      "userId": 6,
+      "count": 1,
+      "price": 600000,
+      "courseId": 5
+    },
+    {
+      "id": "10",
+      "userId": 7,
+      "count": 1,
+      "price": 500000,
+      "courseId": 4
+    }
+  ],
+  "usersFavoriteCourses": [
+    {
+      "id": "1",
+      "userId": 1,
+      "courseId": 1
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "courseId": 3
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "courseId": 2
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "courseId": 1
+    },
+    {
+      "id": "5",
+      "userId": 3,
+      "courseId": 4
+    },
+    {
+      "id": "6",
+      "userId": 4,
+      "courseId": 3
+    },
+    {
+      "id": "7",
+      "userId": 5,
+      "courseId": 2
+    },
+    {
+      "id": "8",
+      "userId": 6,
+      "courseId": 1
+    },
+    {
+      "id": "9",
+      "userId": 6,
+      "courseId": 5
+    },
+    {
+      "id": "10",
+      "userId": 7,
+      "courseId": 4
+    }
+  ]
+}
