@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "پایه های HTML/CSS",
-      "name": "html/css",
+      "name": "html-css",
       "shortDesc": "یادگیری مبانی HTML و CSS",
       "desc": "در این دوره، مبانی HTML و CSS از جمله ساختار، استایل و لایه بندی را خواهید آموخت.",
       "images": [
@@ -20,7 +20,14 @@
         "id": "9",
         "title": "فرانت اند",
         "name": "frontend"
-      }
+      },
+      "teacher": {
+        "fullname": "محمد اسماعیلی",
+        "username": "mohammad_es",
+        "email": "mohammad@gmail.com",
+        "id": "yzXQpah"
+      },
+      "students": 387
     },
     {
       "id": "2",
@@ -42,7 +49,14 @@
         "id": "9",
         "title": "فرانت اند",
         "name": "frontend"
-      }
+      },
+      "teacher": {
+        "fullname": "محمد اسماعیلی",
+        "username": "mohammad_es",
+        "email": "mohammad@gmail.com",
+        "id": "yzXQpah"
+      },
+      "students": 232
     },
     {
       "id": "3",
@@ -64,12 +78,19 @@
         "id": "9",
         "title": "فرانت اند",
         "name": "frontend"
-      }
+      },
+      "teacher": {
+        "fullname": "محمد اسماعیلی",
+        "username": "mohammad_es",
+        "email": "mohammad@gmail.com",
+        "id": "yzXQpah"
+      },
+      "students": 454
     },
     {
       "id": "4",
       "title": "اصول طراحی UI/UX",
-      "name": "ui/ux",
+      "name": "ui-ux",
       "shortDesc": "یادگیری اصول طراحی UI/UX",
       "desc": "در این دوره، اصول طراحی UI/UX از جمله تحقیقات کاربر، وایر فرمینگ و پروتوتایپینگ را خواهید آموخت.",
       "images": [
@@ -86,7 +107,14 @@
         "id": "6",
         "title": "طراحی UI/UX",
         "name": "ui-ux"
-      }
+      },
+      "teacher": {
+        "fullname": "محمد اسماعیلی",
+        "username": "mohammad_es",
+        "email": "mohammad@gmail.com",
+        "id": "yzXQpah"
+      },
+      "students": 872
     },
     {
       "id": "5",
@@ -108,7 +136,14 @@
         "id": "7",
         "title": "طراحی وب واکنش گرا",
         "name": "responsive-web-design"
-      }
+      },
+      "teacher": {
+        "fullname": "محمد اسماعیلی",
+        "username": "mohammad_es",
+        "email": "mohammad@gmail.com",
+        "id": "yzXQpah"
+      },
+      "students": 87
     }
   ],
   "articles": [
@@ -356,32 +391,6 @@
       ]
     },
     {
-      "id": "2",
-      "userId": 2,
-      "courseId": 1,
-      "comment": "من از این دوره راضی بودم، خیلی آسان بود.",
-      "rating": 2,
-      "createdAt": "2022-01-05T12:00:00.000Z",
-      "answers": []
-    },
-    {
-      "id": "3",
-      "userId": 3,
-      "courseId": 2,
-      "comment": "این دوره خوب بود، اما می توانست بهتر باشد.",
-      "rating": 3,
-      "createdAt": "2022-01-10T12:00:00.000Z",
-      "answers": [
-        {
-          "id": 3,
-          "username": "AliceJohnson",
-          "commentId": 3,
-          "answer": "من هم این نظر را دارم، اما هنوز در حال خواندنش هستم.",
-          "createdAt": "2022-01-11T12:00:00.000Z"
-        }
-      ]
-    },
-    {
       "id": "4",
       "userId": 1,
       "courseId": 3,
@@ -397,53 +406,9 @@
           "createdAt": "2022-01-16T12:00:00.000Z"
         }
       ]
-    },
-    {
-      "id": "5",
-      "userId": 4,
-      "courseId": 1,
-      "comment": "این دوره خیلی طولانی بود، من خسته شدم.",
-      "rating": 2,
-      "createdAt": "2022-01-20T12:00:00.000Z",
-      "answers": []
-    },
-    {
-      "id": "6",
-      "userId": 5,
-      "courseId": 2,
-      "comment": "من این دوره را دوست داشتم، اما هنوز در حال خواندنش هستم.",
-      "rating": 4,
-      "createdAt": "2022-01-25T12:00:00.000Z",
-      "answers": []
     }
   ],
   "articlesComments": [
-    {
-      "id": "1",
-      "articleId": 1,
-      "userId": 2,
-      "comment": "این مقاله بسیار خوب بود.",
-      "rating": 5,
-      "createdAt": "2022-01-02T12:00:00.000Z",
-      "answers": [
-        {
-          "id": 1,
-          "username": "JohnDoe",
-          "commentId": 1,
-          "answer": "ممنون از شما.",
-          "createdAt": "2022-01-03T12:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "articleId": 1,
-      "userId": 3,
-      "comment": "این مقاله بسیار طولانی بود.",
-      "rating": 2,
-      "createdAt": "2022-01-04T12:00:00.000Z",
-      "answers": []
-    },
     {
       "id": "3",
       "articleId": 2,
@@ -454,24 +419,6 @@
       "answers": []
     },
     {
-      "id": "4",
-      "articleId": 3,
-      "userId": 2,
-      "comment": "این مقاله بسیار طولانی بود.",
-      "rating": 2,
-      "createdAt": "2022-01-11T12:00:00.000Z",
-      "answers": []
-    },
-    {
-      "id": "5",
-      "articleId": 4,
-      "userId": 3,
-      "comment": "این مقاله بسیار خوب بود.",
-      "rating": 5,
-      "createdAt": "2022-01-16T12:00:00.000Z",
-      "answers": []
-    },
-    {
       "id": "6",
       "articleId": 5,
       "userId": 1,
@@ -479,32 +426,62 @@
       "rating": 2,
       "createdAt": "2022-01-21T12:00:00.000Z",
       "answers": []
-    },
+    }
+  ],
+  "coursesSessions": [
     {
-      "id": "7",
-      "articleId": 1,
-      "userId": 4,
-      "comment": "این مقاله را دوست داشتم.",
-      "rating": 4,
-      "createdAt": "2022-01-22T12:00:00.000Z",
-      "answers": [
+      "id": 1,
+      "name": "فصل اول",
+      "title": "معرفی",
+      "courseId": 2,
+      "sessions": [
+        {
+          "id": 1,
+          "title": "معرفی دوره",
+          "name": "course-introduction",
+          "time": 226
+        },
         {
           "id": 2,
-          "username": "JaneSmith",
-          "commentId": 7,
-          "answer": "من هم این مقاله را دوست داشتم.",
-          "createdAt": "2022-01-23T12:00:00.000Z"
+          "title": "معرفی دوره",
+          "name": "course-introduction",
+          "time": 137
         }
       ]
     },
     {
-      "id": "8",
-      "articleId": 2,
-      "userId": 5,
-      "comment": "این مقاله را دوست داشتم.",
-      "rating": 4,
-      "createdAt": "2022-01-24T12:00:00.000Z",
-      "answers": []
+      "id": 2,
+      "name": "فصل دوم",
+      "title": "مبانی",
+      "courseId": 2,
+      "sessions": [
+        {
+          "id": 1,
+          "title": "آبجکت ها",
+          "name": "objects",
+          "time": 592
+        },
+        {
+          "id": 2,
+          "title": "آرایه ها",
+          "name": "arrays",
+          "time": 430
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "فصل اول",
+      "title": "معرفی",
+      "courseId": 1,
+      "sessions": [
+        {
+          "id": 1,
+          "title": "معرفی دوره",
+          "name": "course-introduction",
+          "time": 237
+        }
+      ]
     }
   ],
   "users": [
@@ -543,130 +520,184 @@
       "password": "ramin123456",
       "role": "student",
       "token": "38a7591a-f033-4e96-927d-e0a37d8bb8ae"
+    },
+    {
+      "fullname": "محمد اسماعیلی",
+      "username": "mohammad_es",
+      "email": "mohammad@gmail.com",
+      "password": "mohammad123456",
+      "role": "teacher",
+      "token": "6cee2f63-3898-4713-ae16-8e51060c5d7c",
+      "id": "yzXQpah"
     }
   ],
   "usersCartCourses": [
     {
-      "id": "1",
-      "userId": 1,
-      "count": 1,
-      "price": 300000,
-      "courseId": 1
+      "course": {
+        "id": "2",
+        "title": "مبانی جاوا اسکریپت",
+        "name": "javascript",
+        "shortDesc": "یادگیری مبانی جاوا اسکریپت",
+        "desc": "در این دوره، مبانی جاوا اسکریپت از جمله متغیرها، انواع داده، توابع و برنامه نویسی شی گرا را خواهید آموخت.",
+        "images": [
+          "https://static.roocket.ir/images/cover/2023/12/1/lVDiVlTtTKPvPZzgxMSBmIEBIQpgVMPX2SGuAN7C.jpg",
+          "javascript-image2.jpg"
+        ],
+        "createdAt": "2022-01-02T12:00:00.000Z",
+        "price": 1229000,
+        "discount": 15,
+        "seasons": 8,
+        "time": 49,
+        "isComplete": 1,
+        "category": {
+          "id": "9",
+          "title": "فرانت اند",
+          "name": "frontend"
+        },
+        "teacher": {
+          "fullname": "محمد اسماعیلی",
+          "username": "mohammad_es",
+          "email": "mohammad@gmail.com",
+          "id": "yzXQpah"
+        },
+        "students": 232
+      },
+      "userToken": "15deff19-1013-404d-8134-1e9b5c9cf723",
+      "id": 1
     },
     {
-      "id": "2",
-      "userId": 1,
-      "count": 2,
-      "price": 400000,
-      "courseId": 3
+      "course": {
+        "id": "4",
+        "title": "اصول طراحی UI/UX",
+        "name": "ui-ux",
+        "shortDesc": "یادگیری اصول طراحی UI/UX",
+        "desc": "در این دوره، اصول طراحی UI/UX از جمله تحقیقات کاربر، وایر فرمینگ و پروتوتایپینگ را خواهید آموخت.",
+        "images": [
+          "https://static.roocket.ir/images/cover/2023/12/1/bfXiSAuUHdHj6jI8sUsQx0j7MdTGRd3zF4O3Lyzc.jpg",
+          "ui-ux-image2.jpg"
+        ],
+        "createdAt": "2022-01-02T12:00:00.000Z",
+        "price": 0,
+        "discount": 0,
+        "seasons": 3,
+        "time": 18,
+        "isComplete": 1,
+        "category": {
+          "id": "6",
+          "title": "طراحی UI/UX",
+          "name": "ui-ux"
+        },
+        "teacher": {
+          "fullname": "محمد اسماعیلی",
+          "username": "mohammad_es",
+          "email": "mohammad@gmail.com",
+          "id": "yzXQpah"
+        },
+        "students": 872
+      },
+      "userToken": "15deff19-1013-404d-8134-1e9b5c9cf723",
+      "id": 2
     },
     {
-      "id": "3",
-      "userId": 2,
-      "count": 1,
-      "price": 200000,
-      "courseId": 2
+      "course": {
+        "id": "3",
+        "title": "پایه های ری اکت",
+        "name": "react",
+        "shortDesc": "یادگیری مبانی ری اکت",
+        "desc": "در این دوره، مبانی ری اکت از جمله کامپوننت ها، استیت، پروپ ها و هندلینگ رویدادها را خواهید آموخت.",
+        "images": [
+          "https://static.roocket.ir/images/cover/2024/3/1/aE9nP6wnSnB9ib0M1Q6HelLDM2UZtBf1Bo5LAUhu.jpg",
+          "react-image2.jpg"
+        ],
+        "createdAt": "2022-01-02T12:00:00.000Z",
+        "price": 2119000,
+        "discount": 20,
+        "seasons": 6,
+        "time": 32,
+        "isComplete": 0,
+        "category": {
+          "id": "9",
+          "title": "فرانت اند",
+          "name": "frontend"
+        },
+        "teacher": {
+          "fullname": "محمد اسماعیلی",
+          "username": "mohammad_es",
+          "email": "mohammad@gmail.com",
+          "id": "yzXQpah"
+        },
+        "students": 454
+      },
+      "userToken": "15deff19-1013-404d-8134-1e9b5c9cf723",
+      "id": 3
     },
     {
-      "id": "4",
-      "userId": 3,
-      "count": 1,
-      "price": 300000,
-      "courseId": 1
-    },
-    {
-      "id": "5",
-      "userId": 3,
-      "count": 1,
-      "price": 500000,
-      "courseId": 4
-    },
-    {
-      "id": "6",
-      "userId": 4,
-      "count": 1,
-      "price": 400000,
-      "courseId": 3
-    },
-    {
-      "id": "7",
-      "userId": 5,
-      "count": 1,
-      "price": 200000,
-      "courseId": 2
-    },
-    {
-      "id": "8",
-      "userId": 6,
-      "count": 1,
-      "price": 300000,
-      "courseId": 1
-    },
-    {
-      "id": "9",
-      "userId": 6,
-      "count": 1,
-      "price": 600000,
-      "courseId": 5
-    },
-    {
-      "id": "10",
-      "userId": 7,
-      "count": 1,
-      "price": 500000,
-      "courseId": 4
+      "course": {
+        "id": "3",
+        "title": "پایه های ری اکت",
+        "name": "react",
+        "shortDesc": "یادگیری مبانی ری اکت",
+        "desc": "در این دوره، مبانی ری اکت از جمله کامپوننت ها، استیت، پروپ ها و هندلینگ رویدادها را خواهید آموخت.",
+        "images": [
+          "https://static.roocket.ir/images/cover/2024/3/1/aE9nP6wnSnB9ib0M1Q6HelLDM2UZtBf1Bo5LAUhu.jpg",
+          "react-image2.jpg"
+        ],
+        "createdAt": "2022-01-02T12:00:00.000Z",
+        "price": 2119000,
+        "discount": 20,
+        "seasons": 6,
+        "time": 32,
+        "isComplete": 0,
+        "category": {
+          "id": "9",
+          "title": "فرانت اند",
+          "name": "frontend"
+        },
+        "teacher": {
+          "fullname": "محمد اسماعیلی",
+          "username": "mohammad_es",
+          "email": "mohammad@gmail.com",
+          "id": "yzXQpah"
+        },
+        "students": 454
+      },
+      "userToken": "6cee2f63-3898-4713-ae16-8e51060c5d7c",
+      "id": 4
     }
   ],
   "usersFavoriteCourses": [
     {
-      "id": "1",
-      "userId": 1,
-      "courseId": 1
-    },
-    {
-      "id": "2",
-      "userId": 1,
-      "courseId": 3
-    },
-    {
-      "id": "3",
-      "userId": 2,
-      "courseId": 2
-    },
-    {
-      "id": "4",
-      "userId": 3,
-      "courseId": 1
-    },
-    {
-      "id": "5",
-      "userId": 3,
-      "courseId": 4
-    },
-    {
-      "id": "6",
-      "userId": 4,
-      "courseId": 3
-    },
-    {
-      "id": "7",
-      "userId": 5,
-      "courseId": 2
-    },
-    {
-      "id": "8",
-      "userId": 6,
-      "courseId": 1
-    },
-    {
-      "id": "9",
-      "userId": 6,
-      "courseId": 5
-    },
-    {
-      "id": "10",
-      "userId": 7,
-      "courseId": 4
+      "course": {
+        "id": "3",
+        "title": "پایه های ری اکت",
+        "name": "react",
+        "shortDesc": "یادگیری مبانی ری اکت",
+        "desc": "در این دوره، مبانی ری اکت از جمله کامپوننت ها، استیت، پروپ ها و هندلینگ رویدادها را خواهید آموخت.",
+        "images": [
+          "https://static.roocket.ir/images/cover/2024/3/1/aE9nP6wnSnB9ib0M1Q6HelLDM2UZtBf1Bo5LAUhu.jpg",
+          "react-image2.jpg"
+        ],
+        "createdAt": "2022-01-02T12:00:00.000Z",
+        "price": 2119000,
+        "discount": 20,
+        "seasons": 6,
+        "time": 32,
+        "isComplete": 0,
+        "category": {
+          "id": "9",
+          "title": "فرانت اند",
+          "name": "frontend"
+        },
+        "teacher": {
+          "fullname": "محمد اسماعیلی",
+          "username": "mohammad_es",
+          "email": "mohammad@gmail.com",
+          "id": "yzXQpah"
+        },
+        "students": 454
+      },
+      "userToken": "6cee2f63-3898-4713-ae16-8e51060c5d7c",
+      "id": 1
     }
   ]
 }
