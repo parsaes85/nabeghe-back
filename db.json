@@ -367,45 +367,54 @@
   ],
   "coursesComments": [
     {
-      "id": "1",
-      "userId": 1,
-      "courseId": 1,
-      "comment": "این دوره بسیار خوب بود، از آن خیلی کلیاتها یاد گرفتم.",
-      "rating": 5,
-      "createdAt": "2022-01-01T12:00:00.000Z",
+      "userId": "d9bb",
+      "username": "parsa_es",
+      "courseId": "1",
+      "comment": "سلام",
+      "createdAt": "",
       "answers": [
         {
-          "id": 1,
-          "username": "JohnDoe",
+          "username": "parsa_es",
           "commentId": 1,
-          "answer": "من هم این دوره را دوست داشتم و از آن خیلی خوشم آمدم.",
-          "createdAt": "2022-01-02T12:00:00.000Z"
+          "answer": "بای",
+          "createdAt": "",
+          "likes": 0
         },
         {
-          "id": 2,
-          "username": "JaneSmith",
+          "username": "mohammad_es",
           "commentId": 1,
-          "answer": "من هم این دوره را دوست داشتم، اما هنوز در حال خواندنش هستم.",
-          "createdAt": "2022-01-03T12:00:00.000Z"
+          "answer": "سلام مجدد",
+          "createdAt": "",
+          "likes": 0
+        },
+        {
+          "username": "parsa_es",
+          "commentId": 1,
+          "answer": "سلام سلام",
+          "createdAt": "",
+          "likes": 0
         }
-      ]
+      ],
+      "likes": 0,
+      "id": 1
     },
     {
-      "id": "4",
-      "userId": 1,
-      "courseId": 3,
-      "comment": "من این دوره را دوست داشتم، بسیار آموزنده بود.",
-      "rating": 5,
-      "createdAt": "2022-01-15T12:00:00.000Z",
+      "userId": "yzXQpah",
+      "username": "mohammad_es",
+      "courseId": "1",
+      "comment": "صدا میاد؟",
+      "createdAt": "",
       "answers": [
         {
-          "id": 4,
-          "username": "BobBrown",
-          "commentId": 4,
-          "answer": "من هم این دوره را دوست داشتم و از آن خیلی خوشم آمدم.",
-          "createdAt": "2022-01-16T12:00:00.000Z"
+          "username": "mohammad_es",
+          "commentId": 3,
+          "answer": "بله",
+          "createdAt": "",
+          "likes": 0
         }
-      ]
+      ],
+      "likes": 0,
+      "id": 3
     }
   ],
   "articlesComments": [
